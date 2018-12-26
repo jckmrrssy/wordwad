@@ -4,7 +4,7 @@ A Choose your own adventure app developed by Steven Henke, Ryen Goldsmith, Jack 
 
 Remember those chose you own adventure books you used to read in your youth? Well, here is the adult and online version.  Pick a wad (story) and choose you own adventure one post at a time, or create an entry at any point in the story. The adventure is yours to follow or create. 
 
-## [Deployed Link coming soon]()
+## [Deployed Link: coming soon]()
 
 ## Getting Started
 
