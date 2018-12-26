@@ -4,7 +4,7 @@ A Choose your own adventure app developed by Steven Henke, Ryen Goldsmith, Jack 
 
 Remember those chose you own adventure books you used to read in your youth? Well, here is the adult and online version.  Pick a wad (story) and choose you own adventure one post at a time, or create an entry at any point in the story. The adventure is yours to follow or create. 
 
-## [Deployed Link coming soon]()
+## [Deployed Link: coming soon]()
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ A demonstration video will be posted once the app is fully developed.
 * [Express.js](https://expressjs.com/) - Node.js framework
 * [jQuery](https://jquery.com/) - Front-end framework 
 * [Handlebars](https://handlebarsjs.com/) - HTML templating engine
-* [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
+* [Node.js](https://nodejs.org/en/) - JavaScript runtime
 * [npm](https://www.npmjs.com/) - Dependency management
 * [Materialize](https://materializecss.com/) - CSS framework
 * [Passport.js](http://www.passportjs.org/) - Authentication middleware
