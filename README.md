@@ -24,7 +24,7 @@ A demonstration video will be posted once the app is fully developed.
 * [Express.js](https://expressjs.com/) - Node.js framework
 * [jQuery](https://jquery.com/) - Front-end framework 
 * [Handlebars](https://handlebarsjs.com/) - HTML templating engine
-* [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
+* [Node.js](https://nodejs.org/en/) - JavaScript runtime
 * [npm](https://www.npmjs.com/) - Dependency management
 * [Materialize](https://materializecss.com/) - CSS framework
 * [Passport.js](http://www.passportjs.org/) - Authentication middleware
