@@ -6,6 +6,8 @@ Remember those Chosse Your Own Adventure books you used to read in your youth? W
 
 ## [Deployed Link: coming soon]()
 
+![image](./public/img/wordwad.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also provide a demo overviewing the applications features and functionality. More information will be included once the application is completed. 
